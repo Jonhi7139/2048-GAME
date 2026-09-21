@@ -1,4 +1,4 @@
-# 2048-GAME
+# 2048-Game
 
 A terminal-based implementation of the classic **2048 puzzle game**, written in Java. The board is rendered using Unicode box-drawing characters, and the game is controlled entirely from the keyboard.
  
@@ -107,3 +107,11 @@ Points are awarded whenever two tiles merge. The score increases by the **value 
 - No undo functionality.
 - The `show_map()` formatting breaks for values ≥ 10000 (5+ digits).
 - Consider adding arrow key support via a library like `JLine` for a better UX.
+
+---
+
+## Authors
+
+**João Pedro Verneck** — [@VerneckDev](https://github.com/VerneckDev)
+
+**João Vitor Andrade** — [@Jonhi7139 ](https://github.com/Jonhi7139 )
